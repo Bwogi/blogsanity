@@ -13,6 +13,7 @@
 
 # Logs
 /logs
+
 *.log
 
 # Coverage directory used by testing tools
